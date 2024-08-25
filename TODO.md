@@ -9,12 +9,12 @@ User actions to implement:
 
 Constraints to follow:
 
-   - [ ] You can use any programming language to build this project.
+   - [x] You can use any programming language to build this project.
    - [ ] Use positional arguments in command line to accept user inputs.
    - [ ] Use a JSON file to store the tasks in the current directory.
    - [ ] The JSON file should be created if it does not exist.
    - [ ] Use the native file system module of your programming language to interact with the JSON file.
-   - [ ] Do not use any external libraries or frameworks to build this project.
+   - [x] Do not use any external libraries or frameworks to build this project.
    - [ ] Ensure to handle errors and edge cases gracefully.
 
 Implement task properties:
